@@ -1,0 +1,8 @@
+ext {
+    //Library and plugins versions
+    versions = [
+            'dagger': '2.22.1',
+    ]
+
+    deps = []
+}
